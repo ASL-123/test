@@ -1,3 +1,4 @@
-<?php
+<?phpfhhf
 phpinfo();
 eqweqw
+jfj
